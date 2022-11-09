@@ -1,0 +1,1 @@
+Acesta este un proiect in care se va lucra la o pagina web a unui treatru astfel incat oricine sa aiba acces la programul pieselor si sa isi poata cumpara/rezerva bilete din timp
