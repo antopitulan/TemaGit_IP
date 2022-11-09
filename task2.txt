@@ -1,3 +1,4 @@
 1. Linie adaugata la primul comit de pe task2
 2. Linie adaugata la al doilea comit de pe task2
 3. Linie adaugata la al treilea comit de pe task2
+4. Linie adaugata dupa respingere Pull Request
