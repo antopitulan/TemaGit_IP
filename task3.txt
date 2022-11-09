@@ -1,1 +1,2 @@
 1. Linie scrisa la primul commit
+2. Linie scrisa la al doilea commit
